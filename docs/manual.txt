@@ -1,0 +1,18 @@
+# Intro
+This is a recipe book for the Behringer TD-3-MO. The TD-3-MO keeps patterns in its sequencer but has no memory for the sound knobs, so a recipe here is a picture of the front panel with every knob, switch and the 16 step pattern, which you set by hand. It runs in your web browser, keeps everything on your computer, and sends nothing anywhere. The controller plugin (MIDI control of the filter and more) is a later step: it waits for the CC chart.
+
+# Quick start
+- Unzip the download and open TD3MO-RecipeBook.html in a browser (Firefox, Chrome, Edge, Safari). It draws the TD-3-MO panel at its real proportions.
+- Pick a recipe from the Recipes shelf. Set your TD-3-MO to match the panel: knobs on a 0 to 10 scale, Tune centre is 5. The sequencer area is drawn for orientation only; the pattern lives in the Sequence piano roll below the panel (note, accent, slide, tie per step).
+- Drag a knob up or down, click a switch lever, drag the panel size slider or press Fit width. Open Recipe info, Sequence and Patch sheet below the panel; Copy as text gives a plain recall sheet.
+- Save keeps the recipe in the browser's own storage; Export file saves a .json file anywhere (a cloud folder works). Import loads files back. Export all saves every recipe of every synth in one file.
+- The same book has panels for the Behringer TD-3, Pro-1 and CAT (pick them in the Synth menu).
+
+# Recommendations
+- Starter recipes are ideas, not copies of anyone's patch: set the positions, then adjust by ear.
+- Write what you heard in the Notes field (tempo, accent feel, which pattern bank it was in).
+- Keep your exported recipes in a folder you back up: they are small text files.
+
+# Install
+- Nothing to install. Unzip anywhere and open the HTML file. To remove it, delete the folder.
+- Windows, macOS and Linux all work; the page needs no internet connection.

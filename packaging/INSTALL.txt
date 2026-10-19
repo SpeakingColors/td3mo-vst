@@ -1,0 +1,11 @@
+TD-3-MO recipe book (Studio 87)
+
+Nothing to install. Unzip this folder anywhere and open TD3MO-RecipeBook.html in your web browser.
+Everything stays on your computer: no accounts, no network, nothing collected.
+
+Files:
+- TD3MO-RecipeBook.html   the recipe book: TD-3-MO panel with a 16 step pattern roll (also TD-3, Pro-1, CAT)
+- TD3MO-manual.pdf        the manual
+
+To remove: delete the folder.
+Free and open source. Not affiliated with or endorsed by Behringer.

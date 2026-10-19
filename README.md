@@ -5,7 +5,7 @@
 Controller and sequencer companion plugin for the Behringer TD-3-MO (Modded Out bass line synthesizer) on Linux.
 
 ## Status
-Planning stage.
+Usable now: the Cat Recipe Book (`docs/recipe-book.html`) draws the TD-3-MO panel with a 16 step pattern roll and stores your recipes in the browser; the release zip has it as an offline file with a short manual. The controller plugin waits for the CC chart (see docs/DEVICE-NOTES.md).
 
 <p align="center">
   <a href="https://ko-fi.com/studio87"><img src="https://img.shields.io/badge/Support_Studio_87-on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support Studio 87 on Ko-fi"></a>
