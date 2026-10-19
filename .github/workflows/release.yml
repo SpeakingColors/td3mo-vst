@@ -36,4 +36,4 @@ jobs:
         run: |
           f="out/TD3MO-$TAG.zip"
           if gh release view "$TAG" >/dev/null 2>&1; then gh release upload "$TAG" "$f" --clobber
-          else gh release create "$TAG" "$f" --target "$GITHUB_SHA" --prerelease --title "TD-3-MO recipe book $TAG" --notes "Offline recipe book for the Behringer TD-3-MO (plus TD-3, Pro-1 and CAT panels): unzip and open TD3MO-RecipeBook.html. Includes the manual, the patch format and the patches as JSON. Works offline, collects nothing."; fi
+          else gh release create "$TAG" "$f" --target "$GITHUB_SHA" --prerelease --title "TD-3-MO recipe book $TAG" --notes "Offline recipe book for the Behringer TD-3-MO (plus TD-3, Pro-1 and CAT panels): unzip and open TD3MO-RecipeBook.html. Includes the manual. Works offline, collects nothing."; fi
