@@ -4,6 +4,8 @@
 
 Controller and sequencer companion plugin for the Behringer TD-3-MO (Modded Out bass line synthesizer) on Linux.
 
+**Manual:** [PDF, opens in the browser](https://github.com/SpeakingColors/td3mo-vst/blob/main/docs/td3mo-vst-manual.pdf)
+
 ## Status
 Usable now: the Cat Recipe Book (`docs/recipe-book.html`) draws the TD-3-MO panel with a 16 step pattern roll and stores your recipes in the browser; the release zip has it as an offline file with a short manual. The controller plugin waits for the CC chart (see docs/DEVICE-NOTES.md).
 
